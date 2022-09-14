@@ -1,7 +1,5 @@
 # git_test
 My first Github Repo!
 Hello Odin!
-Testing!!!!!!
-Testing!!!!!!!!!!
-A lot of testing!!!!!
-dsfghmnb
+Testing 1 2 3 4 5 6 7 8 9!!!
+dsgfhhmgf
